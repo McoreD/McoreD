@@ -1,4 +1,4 @@
-<h1 align="center">Michael D</h1>
+<h1>Michael D</h1>
 
 - Cofounder of [ShareX](https://github.com/ShareX/ShareX), one of the most widely used open source capture and automation tools with tens of millions of downloads and a global user base.
 - Currently building [XerahS](https://github.com/ShareX/XerahS), a cross-platform evolution designed to bring ShareX capabilities to Windows, macOS, and Linux using modern architecture.
@@ -29,12 +29,12 @@ A mature, battle-tested Windows application for screen capture, file sharing, an
 
 ### XerahS
 
-A modern, cross-platform reimagining of ShareX built with **.NET 10** and **Avalonia 11.3+**. The codebase is architected specifically to maximize AI comprehension and agentic contribution: strict nullability, exhaustive documentation, and standardized MVVM. **XerahS is developed using agentic coding workflows as a first-class engineering practice** - GitHub Copilot, Claude, and other AI agents drive feature development, refactoring, and quality improvements throughout the project.
+A modern, cross-platform reimagining of ShareX built with **.NET 10** and **Avalonia 11.3+**. The codebase is architected specifically to maximize AI comprehension and agentic contribution: strict nullability, exhaustive documentation, and standardized MVVM. **XerahS is developed using agentic coding workflows as a first-class engineering practice** - Claude, Codex, GitHub Copilot, and other AI agents drive feature development, refactoring, and quality improvements throughout the project.
 
 Feature highlights:
 - **Cross-platform desktop** on Windows, Linux, and macOS, plus experimental **.NET MAUI** mobile for Android and iOS
 - **Region, fullscreen, and window capture** with multi-monitor support; Windows uses the Desktop Duplication API (DXGI), macOS uses ScreenCaptureKit, Linux covers X11 and Wayland
-- **17 annotation types** — shapes, arrows, text, numbered steps, blur/pixelate/magnify/highlight regions, freehand pen, speech balloon, image/sticker insertion, spotlight, smart eraser, and crop — with full undo/redo and object-level selection
+- **17 annotation types**: shapes, arrows, text, numbered steps, blur/pixelate/magnify/highlight regions, freehand pen, speech balloon, image/sticker insertion, spotlight, smart eraser, and crop, with full undo/redo and object-level selection
 - **Hardware-accelerated image editor** rendering 4K+ at 60 FPS via Skia/Metal/Direct2D, with 40+ effects across Adjustments, Filters, Manipulations, and Drawings
 - **Workflow system with zero inheritance** - every workflow is fully independent with its own hotkeys and tasks, eliminating configuration errors from inheritance chains
 
@@ -48,9 +48,11 @@ Effect categories include standard transforms and color corrections through to s
 
 A cross-platform implementation of the ShareX uploader ecosystem, designed for reuse across multiple apps and platforms.
 
-## Agentic engineering
+## My Passions
 
-I treat AI coding agents as team members that can own bounded tasks end-to-end: reading the codebase, proposing designs, writing and verifying code, and committing clean output. This isn't autocomplete - it's a disciplined workflow where agents operate within defined skill files, follow build and architecture rules, and are held to the same quality bar as human-written code.
+### Agentic engineering
+
+I treat AI coding agents as team members that can own bounded tasks end-to-end: reading the codebase, proposing designs, writing and verifying code, and committing clean output. It's a disciplined workflow where agents operate within defined skill files, follow build and architecture rules, and are held to the same quality bar as human-written code.
 
 XerahS is the live experiment. The codebase is intentionally structured to be agent-readable: strict nullability, consistent MVVM, registry-driven dispatch, and skill files that give agents the domain context they need to work autonomously on real features.
 
@@ -61,4 +63,4 @@ XerahS is the live experiment. The codebase is intentionally structured to be ag
 
 ## Notes
 
-I build software that stays installed for years. Fast, reliable tools with clear workflows, minimal friction, and long-term maintainability — increasingly shipped with agents as active contributors rather than passive assistants.
+I build software that stays installed for years. Fast, reliable tools with clear workflows, minimal friction, and long-term maintainability, increasingly shipped with agents as active contributors rather than passive assistants.
