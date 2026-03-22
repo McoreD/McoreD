@@ -50,6 +50,12 @@ A cross-platform implementation of the ShareX uploader ecosystem, designed for r
 
 ## My Passions
 
+### ECCC
+
+My overarching passion is **ECCC**: *Efficiency achieved through the synergy of Collaboration, Consistency, and Compliance*. It is the operating principle behind how I design teams, workflows, and software delivery.
+
+![ECCC - Efficiency achieved through the synergy of Collaboration, Consistency, and Compliance](ECCC.jpg)
+
 ### Agentic engineering
 
 I treat AI coding agents as team members that can own bounded tasks end-to-end: reading the codebase, proposing designs, writing and verifying code, and committing clean output. It's a disciplined workflow where agents operate within defined skill files, follow build and architecture rules, and are held to the same quality bar as human-written code.
