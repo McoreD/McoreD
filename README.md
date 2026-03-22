@@ -1,6 +1,7 @@
 <h1>Michael D</h1>
 
 - Cofounder of [ShareX](https://github.com/ShareX/ShareX), one of the most widely used open source capture and automation tools with tens of millions of downloads and a global user base.
+- Collaborating on [ShareX.ImageEditor](https://github.com/McoreD/ShareX.ImageEditor), the modular annotation and image editing engine used by both ShareX and XerahS.
 - Currently building [XerahS](https://github.com/ShareX/XerahS), a cross-platform evolution designed to bring ShareX capabilities to Windows, macOS, and Linux using modern architecture.
 - I develop with AI agents as first-class collaborators - agentic engineering is how I ship faster without cutting corners.
 
