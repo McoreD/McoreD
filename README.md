@@ -5,12 +5,11 @@
 - I develop with AI agents as first-class collaborators - agentic engineering is how I ship faster without cutting corners.
 
 <p align="center">
-  <a href="https://getsharex.com">Website</a> |
+  <a href="https://getsharex.com">ShareX Website</a> |
   <a href="https://github.com/ShareX/ShareX">ShareX</a> |
+  <a href="https://github.com/McoreD/ShareX.ImageEditor">ImageEditor</a> |
   <a href="https://github.com/ShareX/XerahS">XerahS</a> |
-  <a href="https://github.com/McoreD/ShareX.ImageEditor">ShareX.ImageEditor</a> |
-  <a href="https://github.com/McoreD/UploaderX">UploaderX</a> |
-  <a href="https://x.com/mcored">X</a>
+  <a href="https://xerahs.com">XerahS Website</a>
 </p>
 
 ## What I work on
